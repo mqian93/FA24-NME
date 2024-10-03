@@ -6,6 +6,14 @@ This is the repository for this semester's new member education material. Please
 
 Feel free to use the **discussion** pane to ask questions and discuss with peers!
 
+See the [Education pane on Notion](https://www.notion.so/cornelldatajournal/Education-1061f717342080cfbc71d591b2e2ec20?pvs=4) for all the non-code materials, schedules and resources.
+
+## Framework and Overview
+
+![Framework of NME](misc/nme_framework.png)
+
+![Framework of NME](misc/nme_process.png)
+
 ## Schedule
 
 Here is the current schedule for CDJ Fall 2024 NME!
